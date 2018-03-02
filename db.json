@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "name":"Nammme",
+    "value" : "some data"
+  },
+  {
+    "id":2,
+    "name":"Nammme2",
+    "value" : "some <br> da<b>t</b>a\n2line"
+  }
+]
